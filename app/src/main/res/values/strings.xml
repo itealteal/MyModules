@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="m1">C099</string>
+    <string name="m2">C100</string>
+    <string name="m3">C101</string>
+    <string name="m4">C102</string>
+    <string name="m5">C103</string>
+    <string name="m6">C104</string>
+    <string name="goback">Go Back</string>
+</resources>
